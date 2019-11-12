@@ -3,8 +3,9 @@ wk_spectra_python
 =================
 
 
-.. image:: https://img.shields.io/pypi/v/wheeler_kiladis_python.svg
-        :target: https://pypi.python.org/pypi/wheeler_kiladis_python
+.. image:: https://img.shields.io/pypi/v/wk-spectra/.svg
+        :target: https://pypi.python.org/pypi/wk-spectra
+
 
 A Python package for the construction of the Wheeler-Kiladis Space-Time Spectra.
 

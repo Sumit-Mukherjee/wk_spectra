@@ -4,7 +4,7 @@
    **Alejandro Jaramillo Moreno**<br/>
    **Center for Atmospheric Sciences**<br/>
    **National Autonomous University of Mexico**<br/>
-  <img src="https://github.com/ajaramillomoreno/wk_spectra/blob/master/CCA-color-1024x1001.png" width="50">
+  <img src="https://github.com/ajaramillomoreno/wk_spectra/blob/master/CCA-color-1024x1001.png" width="100">
 
 
 

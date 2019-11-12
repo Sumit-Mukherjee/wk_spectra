@@ -1,4 +1,4 @@
-## wk_spectra; - Serverless Functions Made Simple
+## wk_spectra
 
 A Python package for the construction of the Wheeler-Kiladis Space-Time Spectra
 

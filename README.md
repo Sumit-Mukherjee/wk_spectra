@@ -11,7 +11,7 @@ Created by:
 
 **National Autonomous University of Mexico**
 
-![CCA Logo](https://github.com/ajaramillomoreno/wk_spectra/blob/master/CCA-color-1024x1001.png =50x50)
+![CCA Logo](https://github.com/ajaramillomoreno/wk_spectra/blob/master/CCA-color-1024x1001.png){:height="50%" width="50%"}
 
 
 

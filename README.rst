@@ -1,13 +1,9 @@
 =================
-wk_spectra_python
+wk_spectra
 =================
 
 
-.. image:: https://img.shields.io/pypi/v/wk-spectra/.svg
-        :target: https://pypi.python.org/pypi/wk-spectra
-
-
-A Python package for the construction of the Wheeler-Kiladis Space-Time Spectra.
+wk_spectra A Python package for the construction of the Wheeler-Kiladis Space-Time Spectra.
 
 Created by:
 
@@ -17,7 +13,7 @@ Center for Atmospheric Sciences
 
 National Autonomous University of Mexico
 
-.. image::CCA-color-1024x1001.png
+![CCA Logo](https://github.com/ajaramillomoreno/wk_spectra/blob/master/CCA-color-1024x1001.png)
 
 
 
